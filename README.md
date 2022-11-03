@@ -1,4 +1,4 @@
-# READ ME CREATED **11/3/2022** by darionberrios
+# Read Me Created **11/3/2022** by darionberrios
 
 All projects are a preview of all Python-related works created in or outside of school projects.
 
